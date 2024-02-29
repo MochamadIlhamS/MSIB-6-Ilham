@@ -1,0 +1,19 @@
+body{
+	background-color:#0012FA;
+}
+legend, fieldset{
+	border:4px outset #000000;
+	border-color: #E7FA00;
+	border-radius:15px;
+	color:#000000;
+	padding:10px;
+	background-image: linear-gradient(to left, #FCFF33, #FFB533, #FF7D33,  #FF3933);
+}
+a:link, a:visited{
+	font-weight:bold;
+	text-decoration:none;
+	color:#313866;
+}
+.materi{
+	font-weight:bolder;
+}
